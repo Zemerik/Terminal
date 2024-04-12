@@ -164,7 +164,7 @@ html,
             min-width: 320px;
             overflow-x: hidden;
             word-wrap: break-word;
-            background-image: url(assests/banner4.gif);
+            background-image: url(assets/banner4.gif);
             background-size: cover;
         }
 
@@ -1252,7 +1252,7 @@ html,
             align-items: center;
             justify-content: center;
             background-attachment: scroll;
-            background-image: url('index.html'), url('assests/banner5.gif');
+            background-image: url('index.html'), url('assets/banner5.gif');
             background-size: 256px, cover;
             background-position: center, center;
             background-repeat: repeat, repeat;
