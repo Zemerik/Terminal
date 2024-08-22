@@ -34,6 +34,28 @@ Welcome to my personal terminal-themed website! Dive into an interactive experie
 
 - User-Friendly Commands
 
+## 📱 Guide:
+
+### Commands:
+
+- `about` - About Zemerik
+- `clear` - Clear the Terminal
+- `education` - Education Background
+- `email` - Contact Me through my Email
+- `history` - View Command History
+- `projects` - View all my Projects
+- `pwd` - Your Current Working Directory
+- `socials` - Follow Zemerik around the Web
+- `welcome` - Display Welcome Section
+- `whoami` - Get to Know who you are
+
+### Shortcuts:
+
+- `Tab` / `Ctrl + i` - autocompletes the command
+- `Up Arrow` - go back to previous command
+- `Ctrl + l` - clear the terminal
+
+> Feel free to open [Pull-Requests](https://github.com/Zemerik/Terminal/pulls) for more Commands / Shorcuts. 
 
 ## 🚀 Quick Start:
 
@@ -49,6 +71,14 @@ Welcome to my personal terminal-themed website! Dive into an interactive experie
 
 ```bash
 git clone https://github.com/Zemerik/Terminal
+```
+
+### Installing Dependencies:
+
+- To run this project locally, we first need to download a few `npm` dependencies by using the command below:
+
+```bash
+npm i
 ```
 
 ### Locally Running:
