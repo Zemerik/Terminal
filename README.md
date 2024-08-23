@@ -99,6 +99,11 @@ npm run dev
 
 ## 😎 Happy Coding!!
 
+## 🤝 Contributing:
+
+Contributions are always welcome and appreciated! **Kindly visit the [CONTRIBUTING.md](https://github.com/Zemerik/Terminal/blob/main/CONTRIBUTING.md) file for more information**
+
+
 ## 💁 Support:
 
 For any kind of support or inforrmation, you are free to join our **Discord Server**,
