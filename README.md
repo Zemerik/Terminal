@@ -18,6 +18,10 @@
     An Interactive Terminal
 </p>
 
+<p align = "center">
+  <img src = "public/screenshot_laptop.png" alt = "Laptop Screenshot" />
+</p>
+
 ## ❗About:
 
 Welcome to my personal terminal-themed website! Dive into an interactive experience where you can explore my world through a classic command-line interface. Just type in the provided commands to learn more about my background, skills, projects, and interests. Whether you're here to discover my professional journey, check out my portfolio, or just curious about who I am, this website offers a unique, nostalgic way to connect. Get ready to type, discover, and enjoy the seamless blend of modern content with a retro touch!
@@ -56,6 +60,10 @@ Welcome to my personal terminal-themed website! Dive into an interactive experie
 - `Ctrl + l` - clear the terminal
 
 > Feel free to open [Pull-Requests](https://github.com/Zemerik/Terminal/pulls) for more Commands / Shorcuts. 
+
+## 💻 Screenshots:
+
+![Phone Screenshot](public/screenshot_phone.png)
 
 ## 🚀 Quick Start:
 
