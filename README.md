@@ -22,6 +22,8 @@
   <img src = "public/screenshot_laptop.png" alt = "Laptop Screenshot" />
 </p>
 
+![Wakatime Stats](https://wakatime.com/badge/user/9860690e-8928-4746-844c-c2924f121f2d/project/b984b121-3ec9-4083-af1d-d2df660cd16f.svg)
+
 ## ❗About:
 
 Welcome to my personal terminal-themed website! Dive into an interactive experience where you can explore my world through a classic command-line interface. Just type in the provided commands to learn more about my background, skills, projects, and interests. Whether you're here to discover my professional journey, check out my portfolio, or just curious about who I am, this website offers a unique, nostalgic way to connect. Get ready to type, discover, and enjoy the seamless blend of modern content with a retro touch!
