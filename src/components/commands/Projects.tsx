@@ -66,6 +66,20 @@ const projects = [
         url: "https://zemprofiles.vercel.app",
         repo: "https://github.com/Zemerik/ZemProfiles",
     },
+    {
+        id: 4,
+        title: "Resume",
+        desc: "A Dynamic Resume",
+        url: "https://zemeriksresume.vercel.app", 
+        repo: "https://github.com/Zemerik/Resume",
+    },
+    {
+        id: 5,
+        title: "Dashboard",
+        desc: "A Unifed Digital Identity Hub",
+        url: "https://zemeriksdashboard.vercel.app", 
+        repo: "https://github.com/Zemerik/Dashboard",
+    },
 ];
 
 export default Projects;

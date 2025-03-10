@@ -19,7 +19,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^5.3.10",
-    "styled-normalize": "^8.0.7"
+    "styled-normalize": "^8.0.7",
+    "terminal-portfolio": "file:"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
